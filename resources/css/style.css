@@ -36,3 +36,7 @@ html {
     color: gray;
 }
 
+video {
+    object-fit: contain;
+}
+
